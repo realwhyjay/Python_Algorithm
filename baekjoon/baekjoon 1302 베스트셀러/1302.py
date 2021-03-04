@@ -17,7 +17,6 @@ bestsellor = []
 for book, number in books.items():
     if number == most_sell:
         bestsellor.append(book)
-        print(bestsellor)
-        bestsellor.sort()
 
-print(bestsellor[0])
+
+print(sorted(bestsellor)[0])
