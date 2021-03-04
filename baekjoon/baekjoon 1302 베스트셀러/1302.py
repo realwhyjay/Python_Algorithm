@@ -1,15 +1,23 @@
 num = int(input())
 
-book = []
-max = 0
-bestseller = ""
+books = {}
+
 for _ in range(num):
-    book.append(input())
+    book = input()
 
-book_set = list(set(book[:]))
+    if book not in books:
+        books[book] = 1
+    else:
+        books[book] += 1
 
-for i in book_set:
-    if max < book.count(book_set[i]):
-        bestseller = book_set[i]
+most_sell = max(books.values())
 
-print(bestseller)
+bestsellor = []
+
+for book, number in books.items():
+    if number == most_sell:
+        bestsellor.append(book)
+        print(bestsellor)
+        bestsellor.sort()
+
+print(bestsellor[0])
