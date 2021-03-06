@@ -1,5 +1,7 @@
-# python_Algorithm
-공포의 맹장 알고리즘 스터디 😱
+# 공포의 맹장 알고리즘 스터디 😱
+
+
+![language_badge](https://img.shields.io/badge/Language-Python-blue)
 
 ## 자료구조 🔥
 
@@ -54,10 +56,10 @@
 | 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 1543 : 문서 검색](https://www.acmicpc.net/problem/1543) | [백준 1543 : 문서 검색 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201543%20문서%20검색/1543%20문서%20검색.md) |  :star:  |
-|     2     |    [백준 1568 : 새](https://www.acmicpc.net/problem/1568)    | [백준 1568 : 새 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201568%20새/1568%20새.md) |          |
-|     3     | [백준 1302 : 베스트셀러](https://www.acmicpc.net/problem/1302) | [백준 1302 : 베스트셀러 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201302%20베스트셀러/1302%20베스트셀러.md) |          |
-|     4     | [백준 1668 : 트로피 진열](https://www.acmicpc.net/problem/1668) | [백준 1668 : 트로피 진열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201668%20트로피%20진열/1668%20트로피%20진열.md) |          |
-|     5     | [백준 1236 : 성 지키기](https://www.acmicpc.net/problem/1236) | [백준 1236 : 성 지키기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201236%20성%20지키기/1236%20성%20지키기.md) |          |
+|     2     |    [백준 1568 : 새](https://www.acmicpc.net/problem/1568)    | [백준 1568 : 새 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201568%20새/1568%20새.md) |  :star:  |
+|     3     | [백준 1302 : 베스트셀러](https://www.acmicpc.net/problem/1302) | [백준 1302 : 베스트셀러 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201302%20베스트셀러/1302%20베스트셀러.md) |  :star:  |
+|     4     | [백준 1668 : 트로피 진열](https://www.acmicpc.net/problem/1668) | [백준 1668 : 트로피 진열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201668%20트로피%20진열/1668%20트로피%20진열.md) |  :star:  |
+|     5     | [백준 1236 : 성 지키기](https://www.acmicpc.net/problem/1236) | [백준 1236 : 성 지키기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201236%20성%20지키기/1236%20성%20지키기.md) |  :star:  |
 |     6     | [백준 2110 : 공유기 설치](https://www.acmicpc.net/problem/2110) |             [백준 2110 : 공유기 설치 solution]()             |          |
 |     7     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) |              [백준 1939 : 중량제한 solution]()               |          |
 
