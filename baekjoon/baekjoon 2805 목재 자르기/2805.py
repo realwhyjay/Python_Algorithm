@@ -10,10 +10,12 @@ end = height[-1]
 while start <= end:
     mid = (start+end)//2
     result = 0
+    print("start : {} mid : {} end : {}".format(start, mid, end))
 
     for i in height:
-        result += (i - mid)
-        print(" i : {} mid : {} i % mid : {}".format(i, mid, i % mid))
+        if (i-mid) > 0:
+            result += (i - mid)
+        print(" i : {} mid : {} i - mid : {}".format(i, mid, i - mid))
 
     if result >= m:
         start = mid+1
