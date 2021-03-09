@@ -53,13 +53,26 @@
 
 순차 탐색, 이진 탐색을 활용한다
 
-| 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
-| :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
-|     1     | [백준 1543 : 문서 검색](https://www.acmicpc.net/problem/1543) | [백준 1543 : 문서 검색 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201543%20문서%20검색/1543%20문서%20검색.md) |  :star:  |
-|     2     |    [백준 1568 : 새](https://www.acmicpc.net/problem/1568)    | [백준 1568 : 새 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201568%20새/1568%20새.md) |  :star:  |
-|     3     | [백준 1302 : 베스트셀러](https://www.acmicpc.net/problem/1302) | [백준 1302 : 베스트셀러 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201302%20베스트셀러/1302%20베스트셀러.md) |  :star:  |
-|     4     | [백준 1668 : 트로피 진열](https://www.acmicpc.net/problem/1668) | [백준 1668 : 트로피 진열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201668%20트로피%20진열/1668%20트로피%20진열.md) |  :star:  |
-|     5     | [백준 1236 : 성 지키기](https://www.acmicpc.net/problem/1236) | [백준 1236 : 성 지키기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201236%20성%20지키기/1236%20성%20지키기.md) |  :star:  |
-|     6     | [백준 2110 : 공유기 설치](https://www.acmicpc.net/problem/2110) |             [백준 2110 : 공유기 설치 solution]()             |          |
-|     7     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) |              [백준 1939 : 중량제한 solution]()               |          |
+| 기본/고급 |                            Title                             |                           solution                           |                           다시풀기                           |
+| :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     1     | [백준 1543 : 문서 검색](https://www.acmicpc.net/problem/1543) | [백준 1543 : 문서 검색 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201543%20문서%20검색/1543%20문서%20검색.md) |                            :star:                            |
+|     2     |    [백준 1568 : 새](https://www.acmicpc.net/problem/1568)    | [백준 1568 : 새 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201568%20새/1568%20새.md) |                            :star:                            |
+|     3     | [백준 1302 : 베스트셀러](https://www.acmicpc.net/problem/1302) | [백준 1302 : 베스트셀러 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201302%20베스트셀러/1302%20베스트셀러.md) |                            :star:                            |
+|     4     | [백준 1668 : 트로피 진열](https://www.acmicpc.net/problem/1668) | [백준 1668 : 트로피 진열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201668%20트로피%20진열/1668%20트로피%20진열.md) |                            :star:                            |
+|     5     | [백준 1236 : 성 지키기](https://www.acmicpc.net/problem/1236) | [백준 1236 : 성 지키기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201236%20성%20지키기/1236%20성%20지키기.md) |                            :star:                            |
+|     6     | [백준 2110 : 공유기 설치](https://www.acmicpc.net/problem/2110) | [백준 2110 : 공유기 설치 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202110%20공유기%20설치/2110%20공유기%20설치.md) |                            :star:                            |
+|     7     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) |              [백준 1939 : 중량제한 solution]()               | 이분탐색과 bfs를 합한 문제.<br />나는 bfs조차 아직 안했기 때문에 <br />우선은 패스 하고 나중에 풀어볼 예정 |
 
+### 이분탐색
+
+이분탐색을 연습하기 위해 이분 탐색 문제만 찾아왔다.
+[여기](https://www.acmicpc.net/workbook/view/3984)에서 문제 목록을 확인할 수 있다.
+
+| 기본/고급 |                            Title                             |               solution                | 다시풀기 |
+| :-------: | :----------------------------------------------------------: | :-----------------------------------: | :------: |
+|     1     | [백준 1790 : 수 이어쓰기2](https://www.acmicpc.net/problem/1790) | [백준 1790 : 수 이어쓰기2 solution]() |          |
+|     2     | [백준 1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654) | [백준 1790 : 수 이어쓰기2 solution]() |          |
+|     3     | [백준 2805 : 나무 자르기](https://www.acmicpc.net/problem/2805) | [백준 1790 : 수 이어쓰기2 solution]() |          |
+|     4     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) | [백준 1790 : 수 이어쓰기2 solution]() |          |
+|     5     |  [백준 2022 : 사다리](https://www.acmicpc.net/problem/2022)  | [백준 1790 : 수 이어쓰기2 solution]() |          |
+|     6     | [백준 11664 : 선분과 점](https://www.acmicpc.net/problem/11664) | [백준 1790 : 수 이어쓰기2 solution]() |          |
