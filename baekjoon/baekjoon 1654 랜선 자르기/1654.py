@@ -30,4 +30,4 @@ while start <= end:
         # end 값을 mid-1 로 더 작게 만들어준다.
         end = mid - 1
 
-print(start)
+print(end)
