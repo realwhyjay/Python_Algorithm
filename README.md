@@ -66,7 +66,7 @@
 ### 이분탐색
 
 이분탐색을 연습하기 위해 이분 탐색 문제만 찾아왔다.
-[여기](https://www.acmicpc.net/workbook/view/3984)에서 문제 목록을 확인할 수 있다.
+[여기](https://www.acmicpc.net/workbook/view/3984)에서 문제 목록을 확인할 수 있다. + 추가 몇문제를 더 찾아왔다.
 
 | 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
@@ -76,3 +76,6 @@
 |     4     |  [백준 2022 : 사다리](https://www.acmicpc.net/problem/2022)  |                                                              |          |
 |     5     | [백준 11664 : 선분과 점](https://www.acmicpc.net/problem/11664) |                                                              |          |
 |     6     |   [백준 2512 : 예산](https://www.acmicpc.net/problem/2512)   |                [백준 2512 : 예산 solution]()                 |          |
+|     7     | [백준 2343 : 기타 레슨](https://www.acmicpc.net/problem/2343) |                                                              |          |
+|     8     | [백준 6236 : Monthly Expense](https://www.acmicpc.net/problem/6236) |                                                              |          |
+
