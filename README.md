@@ -67,6 +67,7 @@
 
 이분탐색을 연습하기 위해 이분 탐색 문제만 찾아왔다.
 [여기](https://www.acmicpc.net/workbook/view/3984)에서 문제 목록을 확인할 수 있다. + 추가 몇문제를 더 찾아왔다.
+ㅅㅂ 정확하게 이해할떄 까지 이것만 한다 ㅡㅡ 개빢침 
 
 | 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
@@ -78,4 +79,6 @@
 |     6     |   [백준 2512 : 예산](https://www.acmicpc.net/problem/2512)   |                [백준 2512 : 예산 solution]()                 |          |
 |     7     | [백준 2343 : 기타 레슨](https://www.acmicpc.net/problem/2343) |                                                              |          |
 |     8     | [백준 6236 : Monthly Expense](https://www.acmicpc.net/problem/6236) |                                                              |          |
+|     9     | [백준 1300 : k번째 수](https://www.acmicpc.net/problem/1300) |                                                              |          |
+|    10     |   [백준 1072 : 게임](https://www.acmicpc.net/problem/1072)   |                                                              |          |
 
