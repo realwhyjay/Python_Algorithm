@@ -2,9 +2,9 @@ n, m = map(int, input().split())
 
 height = list(map(int, input().split()))
 
-height.sort()
+
 start = 1
-end = height[-1]
+end = max(height)
 
 
 while start <= end:
