@@ -72,11 +72,11 @@
 | 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654) | [백준 1654 : 랜선 자르기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201654%20랜선%20자르기/1654%20랜선%20자르기.md) |  :star:  |
-|     2     | [백준 2805 : 목재 자르기](https://www.acmicpc.net/problem/2805) | [백준 2805 : 목재 자르기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202805%20목재%20자르기/2805%20목재%20자르기.md) |          |
+|     2     | [백준 2805 : 목재 자르기](https://www.acmicpc.net/problem/2805) | [백준 2805 : 목재 자르기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202805%20목재%20자르기/2805%20목재%20자르기.md) |  :star:  |
 |     3     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) |                                                              |          |
 |     4     |  [백준 2022 : 사다리](https://www.acmicpc.net/problem/2022)  |                                                              |          |
 |     5     | [백준 11664 : 선분과 점](https://www.acmicpc.net/problem/11664) |                                                              |          |
-|     6     |   [백준 2512 : 예산](https://www.acmicpc.net/problem/2512)   |                [백준 2512 : 예산 solution]()                 |          |
+|     6     |   [백준 2512 : 예산](https://www.acmicpc.net/problem/2512)   |                [백준 2512 : 예산 solution]()                 |  :star:  |
 |     7     | [백준 2343 : 기타 레슨](https://www.acmicpc.net/problem/2343) |                                                              |          |
 |     8     | [백준 6236 : Monthly Expense](https://www.acmicpc.net/problem/6236) |                                                              |          |
 |     9     | [백준 1300 : k번째 수](https://www.acmicpc.net/problem/1300) |                                                              |          |
