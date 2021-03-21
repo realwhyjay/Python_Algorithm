@@ -70,7 +70,6 @@
 이분탐색을 연습하기 위해 이분 탐색 문제만 찾아왔다.
 [여기](https://www.acmicpc.net/workbook/view/3984)에서 문제 목록을 확인할 수 있다. + 추가 몇문제를 더 찾아왔다.
 
-
 | 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654) | [백준 1654 : 랜선 자르기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201654%20랜선%20자르기/1654%20랜선%20자르기.md) |  :star:  |
@@ -78,8 +77,8 @@
 |     3     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) |                                                              |          |
 |     4     |  [백준 2022 : 사다리](https://www.acmicpc.net/problem/2022)  |                                                              |          |
 |     5     | [백준 11664 : 선분과 점](https://www.acmicpc.net/problem/11664) |                                                              |          |
-|     6     |   [백준 2512 : 예산](https://www.acmicpc.net/problem/2512)   |                [백준 2512 : 예산 solution]()                 |  :star:  |
-|     7     | [백준 2343 : 기타 레슨](https://www.acmicpc.net/problem/2343) |                                                              |          |
+|     6     |   [백준 2512 : 예산](https://www.acmicpc.net/problem/2512)   | [백준 2512 : 예산 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202512%20예산/2512%20예산.md) |  :star:  |
+|     7     | [백준 2343 : 기타 레슨](https://www.acmicpc.net/problem/2343) | [백준 2343 : 기타 레슨 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202343%20기타%20레슨/2343%20기타%20레슨.md) |  :star:  |
 |     8     | [백준 6236 : Monthly Expense](https://www.acmicpc.net/problem/6236) |                                                              |          |
 |     9     | [백준 1300 : k번째 수](https://www.acmicpc.net/problem/1300) |                                                              |          |
 |    10     |   [백준 1072 : 게임](https://www.acmicpc.net/problem/1072)   |                                                              |          |
