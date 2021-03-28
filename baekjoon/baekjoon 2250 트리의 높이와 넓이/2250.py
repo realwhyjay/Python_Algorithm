@@ -24,6 +24,8 @@ level = [0]*(n+1)
 level[root] = 1
 cur = 0
 
+# 중위순회
+
 
 def inorder(key):
     global cur
@@ -50,17 +52,11 @@ inorder(root)
 result = 0
 result_idx = 0
 
-
-print(level)
-print(level_max)
-print(level_min)
-
-
+# 차이 찾기
 for i in range(1, n+1):
     diff = level_max[i] - level_min[i]+1
     if result < diff:
         result = diff
         result_idx = i
-        print('i : {}, result : {}, result_idx : {}'.format(i, result, result_idx))
 
 print(result_idx, result)
