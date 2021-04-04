@@ -92,18 +92,18 @@
 | 기본/핵심 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 1991 : 트리 순회](https://www.acmicpc.net/problem/1991) | [백준 1991 : 트리 순회 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201991%20트리%20순회/1991%20트리%20순회.md) |  :star:  |
-|     2     | [백준 2250 : 트리의 높이와 너비](https://www.acmicpc.net/problem/2250) |         [백준 2250 : 트리의 높이와 너비 solution]()          |          |
-|     1     | [백준 1927 : 최소 힙](https://www.acmicpc.net/problem/1927)  |                                                              |          |
-|     2     |                                                              |                                                              |          |
-|     3     |                                                              |                                                              |          |
+|     2     | [백준 2250 : 트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | [백준 2250 : 트리의 높이와 너비 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202250%20트리의%20높이와%20넓이/2250%20트리의%20높이와%20넓이.md) |          |
+|     1     | [백준 1927 : 최소 힙](https://www.acmicpc.net/problem/1927)  | 워크스페이스 생성[백준 1927 : 최소힙 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201927%20최소%20힙/1927%20최소%20힙.md) |          |
+|     2     | [백준 1715 : 카드 정렬하기](https://www.acmicpc.net/problem/1715) | [백준 1715 : 카드 정렬하기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201715%20카드%20정렬하기/1715%20카드%20정렬하기.md) |          |
+|     3     |  [백준 1766 : 문제집](https://www.acmicpc.net/problem/1766)  | [백준 1766 : 문제집 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201766%20문제집/1766%20문제집.md) |          |
 
 ## 브루트포스:fire:
 
-| 기본/핵심 |                         Title                          |              solution              | 다시풀기 |
-| :-------: | :----------------------------------------------------: | :--------------------------------: | :------: |
-|     1     | [백준  : 일곱난쟁이](https://www.acmicpc.net/problem/) | [백준 1991 : 트리 순회 solution]() |          |
-|     2     |                                                        |                                    |          |
-|     1     |                                                        |                                    |          |
-|     2     |                                                        |                                    |          |
-|     3     |                                                        |                                    |          |
+| 기본/핵심 |                            Title                             |                           solution                           | 다시풀기 |
+| :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
+|     1     | [백준 2309  : 일곱난쟁이](https://www.acmicpc.net/problem/2309) | [백준 2309  : 일곱난쟁이 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202309%20일곱%20난쟁이/2309%20일곱%20난쟁이.md) |          |
+|     2     | [백준 1476  : 날짜 계산](https://www.acmicpc.net/problem/1476) | [백준 1476  : 날짜 계산 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201476%20날짜%20계산/1476%20날짜%20계산.md) |          |
+|     1     |                                                              |                                                              |          |
+|     2     |                                                              |                                                              |          |
+|     3     |                                                              |                                                              |          |
 
