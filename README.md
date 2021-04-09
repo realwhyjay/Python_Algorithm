@@ -103,7 +103,8 @@
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 2309  : 일곱난쟁이](https://www.acmicpc.net/problem/2309) | [백준 2309  : 일곱난쟁이 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202309%20일곱%20난쟁이/2309%20일곱%20난쟁이.md) |          |
 |     2     | [백준 1476  : 날짜 계산](https://www.acmicpc.net/problem/1476) | [백준 1476  : 날짜 계산 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201476%20날짜%20계산/1476%20날짜%20계산.md) |          |
-|     1     |                                                              |                                                              |          |
-|     2     |                                                              |                                                              |          |
-|     3     |                                                              |                                                              |          |
+|     3     | [백준 10819  : 차이를 최대로](https://www.acmicpc.net/problem/10819) |           [백준 10819  : 차이를 최대로 solution]()           |          |
+|     4     |  [백준 6603  : 로또](https://www.acmicpc.net/problem/6603)   |                [백준 6603  : 로또 solution]()                |          |
+|     5     | [백준 10972  : 다음 순열](https://www.acmicpc.net/problem/10819) |             [백준 10972  : 다음 순열 solution]()             |          |
+|     6     | [백준 10974  : 모든 순열](https://www.acmicpc.net/problem/10974) |             [백준 10974  : 모든 순열 solution]()             |          |
 
