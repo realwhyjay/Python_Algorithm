@@ -107,4 +107,21 @@
 |     4     |  [백준 6603  : 로또](https://www.acmicpc.net/problem/6603)   | [백준 6603  : 로또 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%206603%20로또/6603%20로또.md) |          |
 |     5     | [백준 10972  : 다음 순열](https://www.acmicpc.net/problem/10819) | [백준 10972  : 다음 순열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010972%20다음%20순열/10972%20다음%20순열.md) |          |
 |     6     | [백준 10974  : 모든 순열](https://www.acmicpc.net/problem/10974) | [백준 10974  : 모든 순열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010974%20모든%20순열/10974%20모든%20순열.md) |          |
+|     7     | [백준 1759  : 암호 만들기](https://www.acmicpc.net/problem/1759) | [백준 1759  : 암호 만들기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201759%20암호%20만들기/1759%20암호%20만들기.md) |          |
+|     8     | [백준 1182  : 부분 수열의 합](https://www.acmicpc.net/problem/1182) | [백준 1182  : 부분 수열의 합 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201182%20부분수열의%20합/1182%20부분수열의%20합.md) |          |
+|     9     | [백준 11723  : 집합](https://www.acmicpc.net/problem/11723)  | [백준 11723  : 집합 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011723%20집합/11723%20집합.md) |          |
+
+## 브루트포스:fire:
+
+| 기본/핵심 |                            Title                             |                           solution                           | 다시풀기 |
+| :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
+|     1     | [백준 15649  : N과 M(1)](https://www.acmicpc.net/problem/15649) | [백준 15649  : N과 M(1) solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2015649%20N과%20M(1)/15649%20N과%20M(1).md) |          |
+|           |                                                              |                                                              |          |
+|           |                                                              |                                                              |          |
+|           |                                                              |                                                              |          |
+|           |                                                              |                                                              |          |
+|           |                                                              |                                                              |          |
+|           |                                                              |                                                              |          |
+|           |                                                              |                                                              |          |
+|           |                                                              |                                                              |          |
 
