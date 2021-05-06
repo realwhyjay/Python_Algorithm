@@ -8,5 +8,4 @@ for _ in range(T):
             for k in range(N+1):
                 if ((3*i)+(2*j)+k) == N:
                     result += 1
-                    print(f'3: {i}    2 : {j}    1 : {k}')
     print(result)
