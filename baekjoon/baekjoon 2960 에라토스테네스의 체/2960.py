@@ -7,6 +7,6 @@ for i in range(2, len(nums)+1):
         if nums[j] == True:
             nums[j] = False
             count += 1
-        if count == K:
-            print(j)
-            break
+            if count == K:
+                print(j)
+                break
