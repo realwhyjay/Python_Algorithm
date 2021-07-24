@@ -126,25 +126,25 @@
 
 ## 자료구조 1
 
-|      |                            Title                             | solution | 다시풀기 |
-| :--: | :----------------------------------------------------------: | :------: | :------: |
-|  1   |  [백준 10828 : 스택](https://www.acmicpc.net/problem/10828)  |          |          |
-|  2   | [백준 9093 : 단어 뒤집기](https://www.acmicpc.net/problem/9093) |          |          |
-|  3   |   [백준 9012 : 괄호](https://www.acmicpc.net/problem/9012)   |          |          |
-|  4   | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874) |          |          |
-|  5   |  [백준 1405 : 에디터](https://www.acmicpc.net/problem/1406)  |          |          |
-|  6   |   [백준 10845 : 큐](https://www.acmicpc.net/problem/10845)   |          |          |
-|  7   | [백준 1158 : 조세퍼스 문제](https://www.acmicpc.net/problem/1158) |          |          |
-|  8   |   [백준 10866 : 덱](https://www.acmicpc.net/problem/10866)   |          |          |
+|      |                            Title                             |                           solution                           | 다시풀기 |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
+|  1   |  [백준 10828 : 스택](https://www.acmicpc.net/problem/10828)  | [백준 10828 : 스택](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010828%20스택/10828%20스택.md) |          |
+|  2   | [백준 9093 : 단어 뒤집기](https://www.acmicpc.net/problem/9093) | [백준 9093 : 단어 뒤집기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%209093%20단어%20뒤집기/9093%20단어%20뒤집기.md) |          |
+|  3   |   [백준 9012 : 괄호](https://www.acmicpc.net/problem/9012)   | [백준 9012 : 괄호](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%209012%20괄호/9012%20괄호.md) |          |
+|  4   | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874) | [백준 1874 : 스택 수열](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201874%20스택%20수열/1874%20스택%20수열.md) |          |
+|  5   |  [백준 1405 : 에디터](https://www.acmicpc.net/problem/1406)  |                                                              |          |
+|  6   |   [백준 10845 : 큐](https://www.acmicpc.net/problem/10845)   | [백준 10845 : 큐](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010845%20큐/10845%20큐.md) |          |
+|  7   | [백준 1158 : 조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [백준 1158 : 조세퍼스 문제](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201158%20요세푸스%20문제/1158%20요세푸스%20문제.md) |          |
+|  8   |   [백준 10866 : 덱](https://www.acmicpc.net/problem/10866)   | [백준 10866 : 덱](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010866%20덱/10866%20덱.md) |          |
 
 ## 자료구조 (연습)
 
-|      |                            Title                             | solution | 다시풀기 |
-| :--: | :----------------------------------------------------------: | :------: | :------: |
-|  1   | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |          |          |
-|  2   | [백준 10799 : 쇠막대기](https://www.acmicpc.net/problem/10799) |          |          |
-|  3   | [백준 17298 : 오큰수](https://www.acmicpc.net/problem/17298) |          |          |
-|  4   | [백준 17299 : 오등큰수](https://www.acmicpc.net/problem/17299) |          |          |
+|      |                            Title                             |                           solution                           | 다시풀기 |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
+|  1   | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |                                                              |          |
+|  2   | [백준 10799 : 쇠막대기](https://www.acmicpc.net/problem/10799) |                                                              |          |
+|  3   | [백준 17298 : 오큰수](https://www.acmicpc.net/problem/17298) | [백준 17298 : 오큰수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017298%20오큰수/17298%20오큰수.md) |          |
+|  4   | [백준 17299 : 오등큰수](https://www.acmicpc.net/problem/17299) | [백준 17299 : 오등큰수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017299%20오등큰수/17299%20오등큰수.md) |          |
 
 ## 자료구조 (참고)
 
