@@ -154,9 +154,9 @@
 |  2   | [백준 1918 : 후위 표기식](https://www.acmicpc.net/problem/1918) | [백준 1918 : 후위 표기식](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201918%20후위%20표기식/1918%20후위%20표기식.md) |          |
 |  3   | [백준 10808 : 알파벳 개수](https://www.acmicpc.net/problem/10808) | [백준 10808 : 알파벳 개수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010808%20알파벳%20개수/10808%20알파벳%20개수.md) |          |
 |  4   | [백준 10809 : 알파벳 찾기](https://www.acmicpc.net/problem/10809) | [백준 10809 : 알파벳 찾기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010809%20알파벳%20찾기/10809%20알파벳%20찾기.md) |          |
-|  5   |     [문자열 분석](https://www.acmicpc.net/problem/10820)     |                                                              |          |
-|  6   |    [단어 길이 재기](https://www.acmicpc.net/problem/2743)    |                                                              |          |
-|  7   |        [ROT13](https://www.acmicpc.net/problem/11655)        |                                                              |          |
+|  5   | [백준 10820 : 문자열분석](https://www.acmicpc.net/problem/10820) | [백준 10820 : 문자열분석](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010820%20문자열%20분석/10820%20문자열%20분석.md) |          |
+|  6   | [백준 2743 : 단어 길이 재기](https://www.acmicpc.net/problem/2743) |                              -                               |          |
+|  7   | [백준 11655 : ROT13](https://www.acmicpc.net/problem/11655)  | [백준 11655 : ROT13](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011655%20ROT13/11655%20ROT13.md) |          |
 |  8   |        [네 수](https://www.acmicpc.net/problem/10824)        |                                                              |          |
 |  9   |     [접미사 배열](https://www.acmicpc.net/problem/11656)     |                                                              |          |
 
