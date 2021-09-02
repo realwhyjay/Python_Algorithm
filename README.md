@@ -164,7 +164,7 @@
 
 |      |                            Title                             |                           solution                           | 다시풀기 |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
-|  1   |       [나머지](https://www.acmicpc.net/problem/10430)        |                                                              |          |
+|  1   | [백준 10430 : 나머지](https://www.acmicpc.net/problem/10430) |                                                              |          |
 |  2   | [백준 2609 : 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [백준 2609 : 최대공약수와 최소공배수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202609%20최대공약수와%20최소공배수/2609%20최대공약수와%20최소공배수%202트.md) |          |
 |  3   | [백준 1934 : 최소공배수](https://www.acmicpc.net/problem/1934) | [백준 1934 : 최소공배수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201934%20최소공배수/1934%20최소공배수.md) |          |
 |  4   | [백준 1978 : 소수 찾기](https://www.acmicpc.net/problem/1978) | [백준 1978 : 소수 찾기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201978%20소수%20찾기/1978%20소수%20찾기%202트.md) |          |
