@@ -171,7 +171,7 @@
 |  5   | [백준 1929 : 소수 구하기](https://www.acmicpc.net/problem/1929) |                                                              |          |
 |  6   |   [골드바흐의 추측](https://www.acmicpc.net/problem/6588)    |                                                              |          |
 |  7   | [백준 10872 : 팩토리얼](https://www.acmicpc.net/problem/10872) |                                                              |          |
-|  8   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |                                                              |          |
+|  8   | [백준 1676 : 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) |                                                              |          |
 |  9   | [백준 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) | [백준 2004 : 조합 0의 개수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202004%20%20조합%200의%20개수/2004%20조합%200의%20개수.md) |          |
 
 ## 수학 1 (연습)
