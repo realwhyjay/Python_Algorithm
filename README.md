@@ -187,10 +187,10 @@
 
 ## 수학 1 (참고)
 
-|      |                          Title                           | solution | 다시풀기 |
-| :--: | :------------------------------------------------------: | :------: | :------: |
-|  1   |   [진법 변환 2](https://www.acmicpc.net/problem/11005)   |          |          |
-|  2   |    [진법 변환](https://www.acmicpc.net/problem/2745)     |          |          |
-|  3   | [Base Conversion](https://www.acmicpc.net/problem/11576) |          |          |
-|  4   |   [소인수분해](https://www.acmicpc.net/problem/11653)    |          |          |
+|      |                            Title                             | solution | 다시풀기 |
+| :--: | :----------------------------------------------------------: | :------: | :------: |
+|  1   | [백준 11005 : 진법 변환 2](https://www.acmicpc.net/problem/11005) |          |          |
+|  2   | [백준  2745 : 진법 변환](https://www.acmicpc.net/problem/2745) |          |          |
+|  3   |   [Base Conversion](https://www.acmicpc.net/problem/11576)   |          |          |
+|  4   | [백준 11653 : 소인수분해](https://www.acmicpc.net/problem/11653) |          |          |
 
