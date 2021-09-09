@@ -10,7 +10,6 @@ for i in range(m):
 
 
 while (temp != 0):
-    print("temp : ", temp)
     after.append(temp % B)
     temp //= B
 
