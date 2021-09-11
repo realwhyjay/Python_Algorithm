@@ -1,6 +1,9 @@
 N = int(input())
 num = []
 
+if not N:
+    num.append(0)
+
 while(N != 0):
     if N % -2:
         # 파이썬에서 //연사자는 몫을 내림 연산한다.
