@@ -169,7 +169,7 @@
 |  3   | [백준 1934 : 최소공배수](https://www.acmicpc.net/problem/1934) | [백준 1934 : 최소공배수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201934%20최소공배수/1934%20최소공배수.md) |          |
 |  4   | [백준 1978 : 소수 찾기](https://www.acmicpc.net/problem/1978) | [백준 1978 : 소수 찾기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201978%20소수%20찾기/1978%20소수%20찾기%202트.md) |          |
 |  5   | [백준 1929 : 소수 구하기](https://www.acmicpc.net/problem/1929) |                                                              |          |
-|  6   |   [골드바흐의 추측](https://www.acmicpc.net/problem/6588)    |                                                              |          |
+|  6   | [백준 6588 : 골드바흐의 추측](https://www.acmicpc.net/problem/6588) |                                                              |          |
 |  7   | [백준 10872 : 팩토리얼](https://www.acmicpc.net/problem/10872) |                                                              |          |
 |  8   | [백준 1676 : 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) |                                                              |          |
 |  9   | [백준 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) | [백준 2004 : 조합 0의 개수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202004%20%20조합%200의%20개수/2004%20조합%200의%20개수.md) |          |
@@ -182,8 +182,8 @@
 |  2   | [백준 17087 : 숨바꼭질 6](https://www.acmicpc.net/problem/17087) | [백준 17087 : 숨바꼭질 6](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017087%20숨바꼭질%206/백준%2017087%20숨바꼭질%206.md) |          |
 |  3   | [백준 1373 : 2진수 8진수](https://www.acmicpc.net/problem/1373) | [백준 1373 : 2진수 8진수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201373%202진수%208진수/1373%202진수%208진수.md) |          |
 |  4   | [백준 1212 : 8진수 2진수](https://www.acmicpc.net/problem/1212) | [백준 1212 : 8진수 2진수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201212%208진수%202진수/1212%208진수%202진수.md) |          |
-|  5   |        [-2진수](https://www.acmicpc.net/problem/2089)        |                                                              |          |
-|  6   |   [골드바흐 파티션](https://www.acmicpc.net/problem/17103)   |                                                              |          |
+|  5   |  [백준 2089 : -2진수](https://www.acmicpc.net/problem/2089)  |                                                              |          |
+|  6   | [백준 17103 : 골드바흐 파티션](https://www.acmicpc.net/problem/17103) |                                                              |          |
 
 ## 수학 1 (참고)
 
@@ -191,6 +191,6 @@
 | :--: | :----------------------------------------------------------: | :------: | :------: |
 |  1   | [백준 11005 : 진법 변환 2](https://www.acmicpc.net/problem/11005) |          |          |
 |  2   | [백준  2745 : 진법 변환](https://www.acmicpc.net/problem/2745) |          |          |
-|  3   |   [Base Conversion](https://www.acmicpc.net/problem/11576)   |          |          |
+|  3   | [백준 11576 : Base Conversion](https://www.acmicpc.net/problem/11576) |          |          |
 |  4   | [백준 11653 : 소인수분해](https://www.acmicpc.net/problem/11653) |          |          |
 
