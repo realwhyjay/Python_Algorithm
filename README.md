@@ -194,3 +194,22 @@
 |  3   | [백준 11576 : Base Conversion](https://www.acmicpc.net/problem/11576) | [백준 11576 : Base Conversion](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011576%20Base%20Conversion/백준%2011576%20Base%20Conversion.md) |          |
 |  4   | [백준 11653 : 소인수분해](https://www.acmicpc.net/problem/11653) | [백준 11653 : 소인수분해](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011653%20소인수분해/백준%2011653%20소인수분해.md) |          |
 
+## 다이나믹 프로그래밍 1 
+
+|      |                            Title                             | solution | 다시풀기 |
+| :--: | :----------------------------------------------------------: | :------: | :------: |
+|  1   | [백준 1463 : 1로 만들기](https://www.acmicpc.net/problem/1463) |          |          |
+|  2   | [백준  11726 : 2xn 타일링](https://www.acmicpc.net/problem/11726) |          |          |
+|  3   |    [2×n 타일링 2](https://www.acmicpc.net/problem/11727)     |          |          |
+|  4   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |          |          |
+|  5   |    [카드 구매하기](https://www.acmicpc.net/problem/11052)    |          |          |
+|  6   |   [카드 구매하기 2](https://www.acmicpc.net/problem/16194)   |          |          |
+|  7   |  [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)   |          |          |
+|  8   |    [쉬운 계단 수](https://www.acmicpc.net/problem/10844)     |          |          |
+|  9   |        [이친수](https://www.acmicpc.net/problem/2193)        |          |          |
+|  10  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |          |          |
+|  11  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |          |          |
+|  12  |        [연속합](https://www.acmicpc.net/problem/1912)        |          |          |
+|  13  |     [제곱수의 합](https://www.acmicpc.net/problem/1699)      |          |          |
+|  14  |        [합분해](https://www.acmicpc.net/problem/2225)        |          |          |
+
