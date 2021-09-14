@@ -182,8 +182,8 @@
 |  2   | [백준 17087 : 숨바꼭질 6](https://www.acmicpc.net/problem/17087) | [백준 17087 : 숨바꼭질 6](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017087%20숨바꼭질%206/백준%2017087%20숨바꼭질%206.md) |          |
 |  3   | [백준 1373 : 2진수 8진수](https://www.acmicpc.net/problem/1373) | [백준 1373 : 2진수 8진수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201373%202진수%208진수/1373%202진수%208진수.md) |          |
 |  4   | [백준 1212 : 8진수 2진수](https://www.acmicpc.net/problem/1212) | [백준 1212 : 8진수 2진수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201212%208진수%202진수/1212%208진수%202진수.md) |          |
-|  5   |  [백준 2089 : -2진수](https://www.acmicpc.net/problem/2089)  | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202089%20-2진수/백준%202089%20-2진수.md |          |
-|  6   | [백준 17103 : 골드바흐 파티션](https://www.acmicpc.net/problem/17103) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017103%20골드바흐%20파티션/백준%2017103%20골드바흐%20파티션.md |          |
+|  5   |  [백준 2089 : -2진수](https://www.acmicpc.net/problem/2089)  | [백준 2089 : -2진수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202089%20-2진수/백준%202089%20-2진수.md) |          |
+|  6   | [백준 17103 : 골드바흐 파티션](https://www.acmicpc.net/problem/17103) | [백준 17103 : 골드바흐 파티션](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017103%20골드바흐%20파티션/백준%2017103%20골드바흐%20파티션.md) |          |
 
 ## 수학 1 (참고)
 
