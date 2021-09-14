@@ -164,14 +164,14 @@
 
 |      |                            Title                             |                           solution                           | 다시풀기 |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
-|  1   | [백준 10430 : 나머지](https://www.acmicpc.net/problem/10430) |                                                              |          |
+|  1   | [백준 10430 : 나머지](https://www.acmicpc.net/problem/10430) | [백준 10430 : 나머지](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010430%20나머지/10430%20나머지.md) |          |
 |  2   | [백준 2609 : 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [백준 2609 : 최대공약수와 최소공배수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202609%20최대공약수와%20최소공배수/2609%20최대공약수와%20최소공배수%202트.md) |          |
 |  3   | [백준 1934 : 최소공배수](https://www.acmicpc.net/problem/1934) | [백준 1934 : 최소공배수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201934%20최소공배수/1934%20최소공배수.md) |          |
 |  4   | [백준 1978 : 소수 찾기](https://www.acmicpc.net/problem/1978) | [백준 1978 : 소수 찾기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201978%20소수%20찾기/1978%20소수%20찾기%202트.md) |          |
-|  5   | [백준 1929 : 소수 구하기](https://www.acmicpc.net/problem/1929) |                                                              |          |
-|  6   | [백준 6588 : 골드바흐의 추측](https://www.acmicpc.net/problem/6588) |                                                              |          |
-|  7   | [백준 10872 : 팩토리얼](https://www.acmicpc.net/problem/10872) |                                                              |          |
-|  8   | [백준 1676 : 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) |                                                              |          |
+|  5   | [백준 1929 : 소수 구하기](https://www.acmicpc.net/problem/1929) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201929%20소수%20구하기/1929%20소수구하기%202트.md |          |
+|  6   | [백준 6588 : 골드바흐의 추측](https://www.acmicpc.net/problem/6588) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%206588%20골드바흐의%20추측/백준%206558%20골드바흐의%20추측%202트.md |          |
+|  7   | [백준 10872 : 팩토리얼](https://www.acmicpc.net/problem/10872) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010872%20팩토리얼/10872%20팩토리얼%202트.md |          |
+|  8   | [백준 1676 : 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201676%20팩토리얼%200의%20개수/1676%20팩토리얼%200의%20개수%202트.md |          |
 |  9   | [백준 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) | [백준 2004 : 조합 0의 개수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202004%20%20조합%200의%20개수/2004%20조합%200의%20개수.md) |          |
 
 ## 수학 1 (연습)
@@ -182,15 +182,15 @@
 |  2   | [백준 17087 : 숨바꼭질 6](https://www.acmicpc.net/problem/17087) | [백준 17087 : 숨바꼭질 6](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017087%20숨바꼭질%206/백준%2017087%20숨바꼭질%206.md) |          |
 |  3   | [백준 1373 : 2진수 8진수](https://www.acmicpc.net/problem/1373) | [백준 1373 : 2진수 8진수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201373%202진수%208진수/1373%202진수%208진수.md) |          |
 |  4   | [백준 1212 : 8진수 2진수](https://www.acmicpc.net/problem/1212) | [백준 1212 : 8진수 2진수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201212%208진수%202진수/1212%208진수%202진수.md) |          |
-|  5   |  [백준 2089 : -2진수](https://www.acmicpc.net/problem/2089)  |                                                              |          |
-|  6   | [백준 17103 : 골드바흐 파티션](https://www.acmicpc.net/problem/17103) |                                                              |          |
+|  5   |  [백준 2089 : -2진수](https://www.acmicpc.net/problem/2089)  | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202089%20-2진수/백준%202089%20-2진수.md |          |
+|  6   | [백준 17103 : 골드바흐 파티션](https://www.acmicpc.net/problem/17103) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017103%20골드바흐%20파티션/백준%2017103%20골드바흐%20파티션.md |          |
 
 ## 수학 1 (참고)
 
-|      |                            Title                             | solution | 다시풀기 |
-| :--: | :----------------------------------------------------------: | :------: | :------: |
-|  1   | [백준 11005 : 진법 변환 2](https://www.acmicpc.net/problem/11005) |          |          |
-|  2   | [백준  2745 : 진법 변환](https://www.acmicpc.net/problem/2745) |          |          |
-|  3   | [백준 11576 : Base Conversion](https://www.acmicpc.net/problem/11576) |          |          |
-|  4   | [백준 11653 : 소인수분해](https://www.acmicpc.net/problem/11653) |          |          |
+|      |                            Title                             |                           solution                           | 다시풀기 |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
+|  1   | [백준 11005 : 진법 변환 2](https://www.acmicpc.net/problem/11005) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011005%20진법변환2/백준%2011005%20%20진법%20변환2.md |          |
+|  2   | [백준  2745 : 진법 변환](https://www.acmicpc.net/problem/2745) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202745%20진법%20변환/백준%202745%20진법%20변환.md |          |
+|  3   | [백준 11576 : Base Conversion](https://www.acmicpc.net/problem/11576) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011576%20Base%20Conversion/백준%2011576%20Base%20Conversion.md |          |
+|  4   | [백준 11653 : 소인수분해](https://www.acmicpc.net/problem/11653) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011653%20소인수분해/백준%2011653%20소인수분해.md |          |
 
