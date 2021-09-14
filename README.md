@@ -189,8 +189,8 @@
 
 |      |                            Title                             |                           solution                           | 다시풀기 |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
-|  1   | [백준 11005 : 진법 변환 2](https://www.acmicpc.net/problem/11005) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011005%20진법변환2/백준%2011005%20%20진법%20변환2.md |          |
-|  2   | [백준  2745 : 진법 변환](https://www.acmicpc.net/problem/2745) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202745%20진법%20변환/백준%202745%20진법%20변환.md |          |
-|  3   | [백준 11576 : Base Conversion](https://www.acmicpc.net/problem/11576) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011576%20Base%20Conversion/백준%2011576%20Base%20Conversion.md |          |
-|  4   | [백준 11653 : 소인수분해](https://www.acmicpc.net/problem/11653) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011653%20소인수분해/백준%2011653%20소인수분해.md |          |
+|  1   | [백준 11005 : 진법 변환 2](https://www.acmicpc.net/problem/11005) | [백준 11005 : 진법 변환2](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011005%20진법변환2/백준%2011005%20%20진법%20변환2.md) |          |
+|  2   | [백준  2745 : 진법 변환](https://www.acmicpc.net/problem/2745) | [백준 2745 : 진법 변환](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202745%20진법%20변환/백준%202745%20진법%20변환.md) |          |
+|  3   | [백준 11576 : Base Conversion](https://www.acmicpc.net/problem/11576) | [백준 11576 : Base Conversion](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011576%20Base%20Conversion/백준%2011576%20Base%20Conversion.md) |          |
+|  4   | [백준 11653 : 소인수분해](https://www.acmicpc.net/problem/11653) | [백준 11653 : 소인수분해](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011653%20소인수분해/백준%2011653%20소인수분해.md) |          |
 
