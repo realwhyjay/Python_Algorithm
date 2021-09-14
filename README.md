@@ -168,10 +168,10 @@
 |  2   | [백준 2609 : 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [백준 2609 : 최대공약수와 최소공배수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202609%20최대공약수와%20최소공배수/2609%20최대공약수와%20최소공배수%202트.md) |          |
 |  3   | [백준 1934 : 최소공배수](https://www.acmicpc.net/problem/1934) | [백준 1934 : 최소공배수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201934%20최소공배수/1934%20최소공배수.md) |          |
 |  4   | [백준 1978 : 소수 찾기](https://www.acmicpc.net/problem/1978) | [백준 1978 : 소수 찾기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201978%20소수%20찾기/1978%20소수%20찾기%202트.md) |          |
-|  5   | [백준 1929 : 소수 구하기](https://www.acmicpc.net/problem/1929) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201929%20소수%20구하기/1929%20소수구하기%202트.md |          |
-|  6   | [백준 6588 : 골드바흐의 추측](https://www.acmicpc.net/problem/6588) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%206588%20골드바흐의%20추측/백준%206558%20골드바흐의%20추측%202트.md |          |
-|  7   | [백준 10872 : 팩토리얼](https://www.acmicpc.net/problem/10872) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010872%20팩토리얼/10872%20팩토리얼%202트.md |          |
-|  8   | [백준 1676 : 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201676%20팩토리얼%200의%20개수/1676%20팩토리얼%200의%20개수%202트.md |          |
+|  5   | [백준 1929 : 소수 구하기](https://www.acmicpc.net/problem/1929) | [백준 1929 : 소수구하기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201929%20소수%20구하기/1929%20소수구하기%202트.md) |          |
+|  6   | [백준 6588 : 골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [백준 6588 : 골드바흐의 추측](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%206588%20골드바흐의%20추측/백준%206558%20골드바흐의%20추측%202트.md) |          |
+|  7   | [백준 10872 : 팩토리얼](https://www.acmicpc.net/problem/10872) | [백준 10872 : 팩토리얼](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010872%20팩토리얼/10872%20팩토리얼%202트.md) |          |
+|  8   | [백준 1676 : 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [백준 1676 : 팩토리얼 0의 개수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201676%20팩토리얼%200의%20개수/1676%20팩토리얼%200의%20개수%202트.md) |          |
 |  9   | [백준 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) | [백준 2004 : 조합 0의 개수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202004%20%20조합%200의%20개수/2004%20조합%200의%20개수.md) |          |
 
 ## 수학 1 (연습)
