@@ -200,7 +200,7 @@
 | :--: | :----------------------------------------------------------: | :------: | :------: |
 |  1   | [백준 1463 : 1로 만들기](https://www.acmicpc.net/problem/1463) |          |          |
 |  2   | [백준  11726 : 2xn 타일링](https://www.acmicpc.net/problem/11726) |          |          |
-|  3   |    [2×n 타일링 2](https://www.acmicpc.net/problem/11727)     |          |          |
+|  3   | [백준 11727 : 2×n 타일링 2](https://www.acmicpc.net/problem/11727) |          |          |
 |  4   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |          |          |
 |  5   |    [카드 구매하기](https://www.acmicpc.net/problem/11052)    |          |          |
 |  6   |   [카드 구매하기 2](https://www.acmicpc.net/problem/16194)   |          |          |
