@@ -202,7 +202,7 @@
 |  2   | [백준  11726 : 2xn 타일링](https://www.acmicpc.net/problem/11726) |          |          |
 |  3   | [백준 11727 : 2×n 타일링 2](https://www.acmicpc.net/problem/11727) |          |          |
 |  4   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |          |          |
-|  5   |    [카드 구매하기](https://www.acmicpc.net/problem/11052)    |          |          |
+|  5   | [백준 11052 : 카드 구매하기](https://www.acmicpc.net/problem/11052) |          |          |
 |  6   |   [카드 구매하기 2](https://www.acmicpc.net/problem/16194)   |          |          |
 |  7   |  [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)   |          |          |
 |  8   |    [쉬운 계단 수](https://www.acmicpc.net/problem/10844)     |          |          |
