@@ -204,7 +204,7 @@
 |  4   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |          |          |
 |  5   | [백준 11052 : 카드 구매하기](https://www.acmicpc.net/problem/11052) |          |          |
 |  6   |   [카드 구매하기 2](https://www.acmicpc.net/problem/16194)   |          |          |
-|  7   |  [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)   |          |          |
+|  7   | [백준 15990 : 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) |          |    📍     |
 |  8   |    [쉬운 계단 수](https://www.acmicpc.net/problem/10844)     |          |          |
 |  9   |        [이친수](https://www.acmicpc.net/problem/2193)        |          |          |
 |  10  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |          |          |
