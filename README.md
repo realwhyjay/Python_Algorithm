@@ -202,9 +202,9 @@
 |  2   | [백준  11726 : 2xn 타일링](https://www.acmicpc.net/problem/11726) | [백준 11726 : 2xn 타일링](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011726%202xn%20타일링/백준%2011726%202xn%20타일링.md) |          |
 |  3   | [백준 11727 : 2×n 타일링 2](https://www.acmicpc.net/problem/11727) | [백준 11727 : 2xn 타일링2](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011727%202xn%20타일링%202/백준%2011727%202xn%20타일링2.md) |          |
 |  4   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |                                                              |          |
-|  5   | [백준 11052 : 카드 구매하기](https://www.acmicpc.net/problem/11052) |                                                              |          |
+|  5   | [백준 11052 : 카드 구매하기](https://www.acmicpc.net/problem/11052) | [백준 11052 : 카드 구매 하기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011052%20카드%20구매하기/백준%2011052%20%20카드%20구매하기.md) |          |
 |  6   |   [카드 구매하기 2](https://www.acmicpc.net/problem/16194)   |                                                              |          |
-|  7   | [백준 15990 : 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) |                                                              |    📍     |
+|  7   | [백준 15990 : 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | [백준 15990 : 1,2,3 더하기 5](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2015990%201%2C2%2C3%20더하기%205/백준%2015990%201%2C2%2C3%20더하기%205.md) |    📍     |
 |  8   |    [쉬운 계단 수](https://www.acmicpc.net/problem/10844)     |                                                              |          |
 |  9   |        [이친수](https://www.acmicpc.net/problem/2193)        |                                                              |          |
 |  10  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |                                                              |          |
