@@ -207,7 +207,7 @@
 |  7   | [백준 15990 : 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | [백준 15990 : 1,2,3 더하기 5](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2015990%201%2C2%2C3%20더하기%205/백준%2015990%201%2C2%2C3%20더하기%205.md) |    📍     |
 |  8   |    [쉬운 계단 수](https://www.acmicpc.net/problem/10844)     |                                                              |          |
 |  9   |  [백준 2193 : 이친수](https://www.acmicpc.net/problem/2193)  |                                                              |          |
-|  10  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |                                                              |          |
+|  10  | [백준 11053 : 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |                                                              |          |
 |  11  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |                                                              |          |
 |  12  |        [연속합](https://www.acmicpc.net/problem/1912)        |                                                              |          |
 |  13  |     [제곱수의 합](https://www.acmicpc.net/problem/1699)      |                                                              |          |
