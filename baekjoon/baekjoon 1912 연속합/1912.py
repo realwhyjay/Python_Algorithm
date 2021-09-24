@@ -4,17 +4,9 @@ input = sys.stdin.readline
 n = int(input())
 numbers = list(map(int, input().split()))
 
-max = min(numbers)
-for i in range(n):
-    temp = numbers[i]
+result_list = [numbers[0]]
 
-    for j in range(i, n):
-        if i == j:
-            if max < temp:
-                max = temp
-        else:
-            temp += numbers[j]
-            if max < temp:
-                max = temp
+for i in range(n-1):
+    result_list.append(max(result_list[i]+numbers[i+1], numbers[i+1]))
 
-print(max)
+print(max(result_list))
